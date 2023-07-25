@@ -1,0 +1,9 @@
+~ For icons : font awesome
+~ cdn : content delivery network
+~ cdnjsk
+<!-- if we want to count border within height and width  -->
+
+- rem
+
+- flex box
+	
